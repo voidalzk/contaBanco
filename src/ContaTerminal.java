@@ -12,7 +12,7 @@ public class ContaTerminal {
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
-        System.out.println("Bem-vindo ao ByteBank!");
+        System.out.println("Bem-vindo ao JavaBank!");
 
         System.out.println("Por favor, digite o número da conta: ");
         Integer numeroConta = scanner.nextInt();
